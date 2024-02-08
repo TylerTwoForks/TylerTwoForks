@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working as a consultant in the Salesforce industry.  We focus in writing custom web applications on top of the Salesforce platform. 
+
+Currently, I am looking for open source Java projects to contribute to. 
+
 <!--
 **TylerTwoForks/TylerTwoForks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
