@@ -1,6 +1,6 @@
 ### Hello!
 
-I am currently working as a consultant in the Salesforce industry.  My firm focuses on writing full, custom web applications on top of the Salesforce platform. We think of Salesforce more as a platform that stricly an SMS.  It is amazing what you can do with some custom development effort. 
+I am currently working as a consultant in the Salesforce industry.  My firm focuses on writing full, custom web applications on top of the Salesforce platform. We think of Salesforce more as a platform than stricly a CRM.  It is amazing what you can do with some custom development effort. 
 
 My skillset incldues 
 - Java
