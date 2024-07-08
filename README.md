@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hello!
 
-I'm currently working as a consultant in the Salesforce industry.  We focus in writing custom web applications on top of the Salesforce platform. 
+I am currently working as a consultant in the Salesforce industry.  My firm focuses on writing full, custom web applications on top of the Salesforce platform. We think of Salesforce more as a platform that stricly an SMS.  It is amazing what you can do with some custom development effort. 
 
-Currently, I am looking for open source Java projects to contribute to. 
+My skillset incldues 
+- Java
+- Apex (salesforce backend language)
+- JavaScript
+- HTML
+- CSS
+- I have dabbled in AWS, GCP, and Heroku over the years.
+
+I am open for consulting work in the Salesforce or Java ecosystems. 
 
 <!--
 **TylerTwoForks/TylerTwoForks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
