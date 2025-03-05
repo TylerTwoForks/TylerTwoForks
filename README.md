@@ -6,21 +6,20 @@ I currently work as a consultant in the Salesforce ecosystem, specializing in bu
 My journey in technology began in high school in the early 2000s, where I honed my skills building websites alongside my father. My early experience included working with HTML, PHP, JavaScript, ColdFusion, and Adobe Flash (this is showing my age). Over the years, I have worked on building a diverse and robust career in the tech industry, spanning multiple roles and domains:
 
 - IT Specialist in the U.S. Army (6 years): Developed technical expertise and problem-solving skills while managing critical IT systems in a demanding environment.
-- Associate Support Engineer to Principal Support Engineer in VoIP Software Company: Progressed from an associate to a principal role, gaining deep insights into troubleshooting complex systems and delivering customer-focused solutions.
-- Service Delivery Manager: Transitioned into account management, managing 25+ clients across the West Coast and Canada, and ensuring seamless service delivery for a wide range of technical needs.
-- Software Developer in R&D: Leveraged my self-taught programming skills to join the Research and Development team as a C++ developer, contributing to innovative projects and solutions.
-- Java Engineer in Education Startup: Focused on greenfield development using Java, Spring Boot, PostgreSQL, and some Python, to build impactful education solutions from the ground up.
-- Engineering Team Lead at Consulting Firm: Currently lead a high-performing engineering team in a consulting firm, driving growth and delivering strategic solutions within the Salesforce ecosystem.
+- Associate Support Engineer -> Principal Support Engineer at Interactive Intelligence (now Genesys): Progressed from an associate to a principal role, gaining deep insights into troubleshooting complex systems and delivering customer-focused solutions.
+- Service Delivery Manager at Interactive Intelligence (now Genesys): Transitioned into account management, managing 25+ clients across the West Coast and Canada, and ensuring seamless service delivery for a wide range of technical needs.
+- Software Developer in R&D at Interactive Intelligence (now Genesys): Leveraged my self-taught skills into joining the Research and Development team as a C++ developer, contributing to innovative projects and solutions.
+- Java Engineer at Campus Education (now Slingshot): Focused on greenfield development using Java, Spring Boot, PostgreSQL, and some Python, to build impactful education solutions from the ground up.
+- Senior Engineer/Team Lead at Zinc Partners: I currently lead a high-performing engineering team in a consulting firm, driving growth and delivering strategic solutions across many technologies with a specialization in the Salesforce ecosystem.
 
 **My skillset incldues**
-- Java (8, 17, 21) :sun
+- Java (8, 17, 21)
 - Spring Boot 
 - REST API development (wiht a little GraphQL in there as well)
 - Apex (Salesforce language based on Java)
 - JavaScript/TypeScript (vanilla and React)
 - CI/CD work.  (Jenkins, Bitbucket Pipelines, Github Actions, Gearset, Docker etc...)
-  - I am no expert in these areas but I have managed many a project with many different CI/CD structures and always get them working!
-- I have dabbled in AWS, GCP, and Heroku over the years.
+- I have worked in AWS, GCP, and Heroku over the years.
 - C++
 
 ## Noteworthy Projects
