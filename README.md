@@ -1,22 +1,22 @@
 ## Hello!
 
-I currently work as a consultant in the Salesforce ecosystem, specializing in building fully custom web applications on top of Salesforce. Our team views Salesforce not just as a CRM but as a versatile development platform, unlocking endless possibilities with the proper custom development efforts.
+I am a Software Engineering Consultant specializing in fully custom web applications tailored to client needs. I work across a range of technologies including Java, Go, and the Salesforce platform. My core expertise is in Java, but I’ve increasingly been advocating for Go in new projects due to its simplicity and power. While I'm still early in my Go journey, it's quickly become a favorite—especially when paired with HTMX, enabling the development of clean, efficient, and easily maintainable applications. 
 
-## Resume (TL;DR version)
-My journey in technology began in high school in the early 2000s, where I honed my skills building websites alongside my father. My early experience included working with HTML, PHP, JavaScript, ColdFusion, and Adobe Flash (this is showing my age). Over the years, I have worked on building a diverse and robust career in the tech industry, spanning multiple roles and domains:
-
-- IT Specialist in the U.S. Army (6 years): Developed technical expertise and problem-solving skills while managing critical IT systems in a demanding environment.
-- Associate Support Engineer -> Principal Support Engineer at Interactive Intelligence (now Genesys): Progressed from an associate to a principal role, gaining deep insights into troubleshooting complex systems and delivering customer-focused solutions.
-- Service Delivery Manager at Interactive Intelligence (now Genesys): Transitioned into account management, managing 25+ clients across the West Coast and Canada, and ensuring seamless service delivery for a wide range of technical needs.
-- Software Developer in R&D at Interactive Intelligence (now Genesys): Leveraged my self-taught skills into joining the Research and Development team as a C++ developer, contributing to innovative projects and solutions.
-- Java Engineer at Campus Education (now Slingshot): Focused on greenfield development using Java, Spring Boot, PostgreSQL, and some Python, to build impactful education solutions from the ground up.
-- Senior Engineer/Team Lead at Zinc Partners: I currently lead a high-performing engineering team in a consulting firm, driving growth and delivering strategic solutions across many technologies with a specialization in the Salesforce ecosystem.
+## Resume (TL;DR version) 
+- (2022 - current - Zinc) Senior Engineer/Team Lead at Zinc Partners: I currently lead a high-performing engineering team in a consulting firm, driving growth and delivering strategic solutions across many technologies with a specialization in the Salesforce ecosystem.
+- (2020 - 2022 - Slingshot) Java Engineer at Campus Education (now Slingshot): Focused on greenfield development using Java, Spring Boot, PostgreSQL, and some Python, to build impactful education solutions from the ground up.
+- (2016 - 2019 - Genesys) Software Developer in R&D: Leveraged my self-taught skills into joining the Research and Development team as a C++ developer, contributing to innovative projects and solutions.
+- (2014 - 2016 - Genesys) Service Delivery Manager: Transitioned into account management, managing 25+ clients across the West Coast and Canada, and ensuring seamless service delivery for a wide range of technical needs.
+- (2012 - 2014 - Genesys) Associate Support Engineer -> Principal Support Engineer: Progressed from an associate to a principal role, gaining deep insights into troubleshooting complex systems and delivering customer-focused solutions.
+- (2010 - 2016) IT Specialist in the U.S. Army - Indiana National Guard: Developed technical expertise and problem-solving skills while managing critical IT systems in a demanding environment.
 
 **My skillset incldues**
 - Java (8, 17, 21)
-- Spring Boot 
+- Spring Boot
+- SQL (mainly PostgreSQL)
 - REST API development (wiht a little GraphQL in there as well)
-- Apex (Salesforce language based on Java)
+- Go (golang) 
+- Apex (Salesforce language - essentially Java)
 - JavaScript/TypeScript (vanilla and React)
 - CI/CD work.  (Jenkins, Bitbucket Pipelines, Github Actions, Gearset, Docker etc...)
 - I have worked in AWS, GCP, and Heroku over the years.
@@ -24,7 +24,8 @@ My journey in technology began in high school in the early 2000s, where I honed 
 
 ## Noteworthy Projects
 **Technical Projects**
-- I am currently working on an LMS integration to our customers platform.  I am implementing this with Java 21 with Spring Boot as a microservice.  I will be utilizing Java 21 again with virtual threading in order to keep concurency and speed high. This project has a number of requirements such as listening for Course Status updates from the LMS, automatically creating logins for new employees, and auto enrolling those new employees to courses in the LMS. This microservice will function without a database as it is purely a transofmational and communication layer. 
+- I completed an LMS (Moodle) integration to a customers platform.  I am implementing this with Java 21 with Spring Boot as a middle-ware service hosted on Heroku (similar to AWS).  I chose Java 21 for virtual threading in order to keep concurrency and speed high. This project has a number of requirements such as listening for Course Status updates from the LMS, automatically creating logins for new employees, auto enrolling those new employees to courses in the LMS, and communicating this with the employee (email). This microservice functions as a data transformation/processing layer.
+  - Result: this project saved 60+ FTE hours per month.  This process used to be fully manual and had was interfering with multiple employees true full time responsibilities. By automating this, we have alleviated that burden on those employees. 
 - At my current consulting firm, I have led numerous initiatives from conception through completion, including a highly impactful integration with a major payroll platform. This project addressed the challenge of synchronizing employee data between the payroll system and the platform we develop for our client. The goal was to ensure real-time updates: when employee data is modified in one system, corresponding changes are reflected in the other. To achieve this, I implemented a Java microservice using Spring Boot, hosted on Heroku. This middleware microservice operates without a database, functioning purely as a data transformation and communication layer. It features a REST API that listens for webhooks from the payroll platform, processes and transforms the incoming data, and forwards it to the client’s platform—and vice versa. Notably, I utilized Java 21 and the latest version of Spring Boot to maximize the efficiency of this service. By implementing Java Virtual Threads, I significantly increased concurrency and improved the system's overall speed and scalability. This project highlights my expertise in Java microservices, real-time data synchronization, and leveraging modern Java features to build high-performance, scalable systems.
 - I designed and implemented a comprehensive CI/CD automation pipeline to streamline our development workflow, leveraging Bitbucket for version control and Gearset for deployment automation. Certain steps, such as creating promotion branches and submitting pull requests, remain manual due to resource constraints. While production deployments are not fully automated at the client’s request, the process is highly streamlined. Approved branches are merged into the MAIN branch via Bitbucket, and deployment requires a single button click within Gearset. The pipeline then handles the build and deployment automatically, ensuring reliability and simplicity. This implementation highlights my ability to integrate tools like Bitbucket and Gearset to create an optimized, flexible workflow that enhances development efficiency and maintains high-quality delivery standards. Key automation features include:
   - Automated unit test runs triggered based on the target environment of a pull request within Bitbucket
